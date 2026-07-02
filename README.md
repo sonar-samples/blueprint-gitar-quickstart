@@ -1,5 +1,7 @@
 # Get started with Gitar:
 
+> Last Verified: May 2026
+
 ## TL;DR overview
 
 - Gitar is an AI code review platform that reviews pull requests, suggests fixes, and commits them back to the branch when asked.  
